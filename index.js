@@ -7,7 +7,7 @@ let sessions = new Map();
 
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
+  console.log(`Долбаеб в сети ${client.user.tag}!`);
 });
 client.on('message', async message  => {
 	if(message.author.bot)return;
