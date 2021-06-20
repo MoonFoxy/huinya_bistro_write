@@ -3,7 +3,4 @@
 <h1/>Поебата которая шото умеет.<br/>
 <h4/>Шо бы картиночки воркали устнови эту поеботу sudo apt-get install imagemagick<br/>
 <h4/>Патом npm install<br/>
-<img src="https://sad.awteam.pw/hacked/monkey.png"/><br/>
-<img src="https://sad.awteam.pw/hacked/pizdabolstvo.png"/><br/>
-<img src="https://sad.awteam.pw/hacked/xueta.png"/><br/>
 <h6/> Я пишу как мудак сори)) 0)))А0у)ВА)ЫА-вы9
